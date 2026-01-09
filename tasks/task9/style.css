@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  -webkit-font-smoothing: auto;
+  -moz-font-smoothing: auto;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: auto;
+  text-rendering: optimizeLegibility;
+  font-smooth: always;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+}
+form {
+    width: 20%;
+    margin: auto;
+    border: 2px solid cadetblue;
+    background: darkgray;
+    padding: 50px;
+}
+label{
+    width: 25%;
+    display: inline-block;
+}
+h1 {
+  font-size: 1.5rem;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: system-ui;
+}
+button {
+    background: brown;
+    color: #ffffff;
+    padding: 10px 30px;
+    margin: auto !important;
+    display: block;
+    width: 45%;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-family: math;
+}
